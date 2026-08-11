@@ -1,0 +1,5 @@
+assumption,low,base,high,note
+Urban prestige skincare penetration rate (% of urban adults who buy prestige skincare),0.06,0.1,0.15,Directional range based on publicly reported prestige beauty category commentary; not a licensed penetration figure.
+Average annual prestige skincare spend per consumer (USD),150.0,280.0,450.0,Range reflects entry-prestige to high-prestige spend tiers; a real engagement would tier this by income segment.
+"Category CAGR, next 3 years",0.03,0.07,0.12,"China prestige beauty growth has been volatile post-2023; range reflects recovery-scenario uncertainty, not a point forecast."
+Serviceable geography adult share of provincial population,0.6,0.68,0.75,"Share of provincial population that is working-age adult (18-65), World Bank age-structure data as directional anchor."
